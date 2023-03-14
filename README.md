@@ -21,6 +21,7 @@ Include the neural network model diagram.
 ### STEP 1:
 
 Loading the dataset
+'''py import '''py
 
 ### STEP 2:
 
