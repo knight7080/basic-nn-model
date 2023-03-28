@@ -6,8 +6,6 @@ To develop a neural network regression model for the given dataset.
 
 ## THEORY
 
-Explain the problem statement
-
 ## Neural Network Model
 
 Neural networks consist of simple input/output units called neurons. These units are interconnected and each connection has a weight associated with it. Neural networks are flexible and can be used for both classification and regression. In this article, we will see how neural networks can be applied to regression problems.
